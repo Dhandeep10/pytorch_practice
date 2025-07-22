@@ -1,2 +1,4 @@
 # pytorch_practice
-Jupyter notebooks demonstrating PyTorch basics, CNNs, GANs, and model training workflows.
+Jupyter notebooks demonstrating basics, CNNs, GANs, and model training workflows in PyTorch.
+
+
